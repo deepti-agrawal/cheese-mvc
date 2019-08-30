@@ -1,0 +1,18 @@
+table, td, th {
+    border-block-color: #99ff3a;
+    border: 1px solid black;
+    font-family: Tahoma;
+}
+
+table {
+    border-collapse: collapse;
+    width: fit-content;
+}
+
+th{
+    height: 50px;
+}
+
+body{
+    font-family: sans-serif;
+}
